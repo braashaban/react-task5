@@ -1,0 +1,32 @@
+
+.mainserv{
+    padding-top: 20px;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+.title11{
+    text-align: center;
+   
+}
+.title11 h3{
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color:var(--main)
+}
+.title11 h1{
+    color: #1E1D4C;
+    text-align: center;
+ 
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    color:var(--five)
+}

@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Poppins';
+
+}
+:root{
+--main:#DF6951;
+--second:#FFBA0A;
+--third:#2F2F2F;
+--four:#7D7D7D;
+--five:#1E1D4C;
+}
+li{
+  list-style: none;
+}
+a{
+text-decoration: none;
+}

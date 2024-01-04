@@ -1,0 +1,55 @@
+.cardstrending{
+
+    background-color: #eee;
+    width: 328px;
+    color: var(--four)
+    ;
+    border-radius: 10px;
+}
+.contenttrend{
+    padding:5px 20px;
+}
+.imgTrend .imgTrend1{
+    width: 100%;
+    border-radius: 10px;
+}
+.imgTrend .flagggimg{
+    top: -30px;
+    left: 15px;
+    position: relative;
+    border: 5px solid #ffff;
+    border-radius: 50%;
+}
+.days
+,.country{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding: 0 15px ;
+}
+.country h3{
+
+color: #2F2F2F;
+text-align: center;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+}
+.country .star{
+    color: var(--second);
+
+}
+.country .stars.star{
+ font-size: 15px;
+}
+.btntrend{
+    background-color: var(--main);
+    border:none;
+   width: 128px;
+    color: #fff;
+  height: 40px;
+    border-radius: 10px; 
+    margin-top: 10px;
+}

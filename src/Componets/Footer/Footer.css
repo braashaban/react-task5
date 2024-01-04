@@ -1,0 +1,30 @@
+footer{
+display: flex;
+justify-content: space-around;
+padding: 15px;
+background-repeat: no-repeat;
+background-size: cover;
+flex-wrap: wrap;
+margin-top: 20px;
+}
+ .company
+, .desti,
+.social{
+    margin-bottom: 25px;
+}
+footer .titlefooter{
+    color: #2F2F2F;
+font-size: 21px;
+line-height: 24px
+}
+
+.company ul li ,.desti ul li{
+padding: 10px;
+}
+.social p{
+    width: 89%;
+}
+.iconfoot{
+    color: var(--main);
+    margin: 5px;
+}
